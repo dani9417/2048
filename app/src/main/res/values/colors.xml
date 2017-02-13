@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+    <color name="game_area_background_color">#BBADA0</color>
+    <color name="game_def_tile_color">#CDC0B4</color>
+    <color name="tile_2">#31697a</color>
+    <color name="game_layout_background_color">#FBF8EF</color>
+    <color name="main_menu_background_color">#B4FBF8EF</color>
+    <color name="restart_text_color">#f1ac21</color>
+    <color name="game_title_color">#776E65</color>
+
+
+
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="primary_light">#D7CCC8</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="game_activity_name">Game</string>
+    <string name="play">Play</string>
+    <string name="high_scores">High Scores</string>
+    <string name="exit">Exit</string>
+    <string name="game_score">Score:\n %1$d</string>
+    <string name="restart">Restart</string>
+    <string name="best_score">Best Score:\n %1$d</string>
+    <string name="item_highscore_name">Name: %1$s</string>
+    <string name="item_highscore_score">Score: %1$d</string>
+    <string name="item_highscore_size">Field size: %1$dx%2$d</string>
+    <string name="item_highscore_date">Date: %1$s</string>
+    <string name="delete_high_score">Delete <b>%1$s</b> <br/> with score of: <b>%2$d</b></string>
+    <string name="you_won_title">You won!</string>
+    <string name="you_lost_title">You lost!</string>
+    <string name="new_high_score_name">Name</string>
+    <string name="win">Win:</string>
+    <string name="menu_3">3x3</string>
+    <string name="menu_4">4x4</string>
+    <string name="menu_5">5x5</string>
+    <string name="menu_6">6x6</string>
+</resources>
